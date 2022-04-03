@@ -2,7 +2,7 @@
 
 I'm Bianca, a full-stack developer.
 - 🌱 Currently learning JavaScript
-- 💼 Excepting new clients. Check out my <a href="https://biancatogonon.netlify.app/" target="_blank" rel="noopener noreferrer">portfolio</a>!
+- 💼 Accepting new clients. Check out my <a href="https://biancatogonon.netlify.app/" target="_blank" rel="noopener noreferrer">portfolio</a>!
 - ✨ Connect with me on <a href="https://twitter.com/bytesbybianca" target="_blank" rel="noopener noreferrer">Twitter</a>
 - 📫 Email me at biancatogodev@gmail.com
 
