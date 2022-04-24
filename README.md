@@ -7,7 +7,7 @@
 
 - 💼 Accepting new clients. Check out my [portfolio!](https://biancatogonon.netlify.app/)
 
-- 📫 Email me at **biancatogodev@gmail.com**
+- 📫 Email me at [biancatogodev@gmail.com](mailto:biancatogodev@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
