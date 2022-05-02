@@ -64,7 +64,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
-<a href="mailto:biancatogodev@gmail.com"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-mail-100.png?raw=true" alt="biancatogonon" height="40" width="40" /></a>
 <a href="https://twitter.com/bytesbybianca" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-twitter-250.png?raw=true" alt="bytesbybianca" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/biancatogonon" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-linkedin-250.png?raw=true" alt="biancatogonon" height="40" width="40" /></a>
+<a href="https://github.com/bytesbybianca/"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-github-250.png?raw=true" alt="biancatogonon" height="40" width="40" /></a>
+<a href="mailto:biancatogodev@gmail.com"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-mail-100.png?raw=true" alt="biancatogonon" height="40" width="40" /></a>
 </p>
