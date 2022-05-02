@@ -62,6 +62,25 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-css3-250.png?raw=true" alt="css3" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-git-250.png?raw=true" alt="git" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-html-5-250.png?raw=true" alt="html5" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-javascript-250.png?raw=true" alt="javascript" width="80" height="80"/> </a> <br> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mongodb-original-wordmark.png?raw=true" alt="mongodb" width="80" height="80"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/express-original-wordmark.png?raw=true" alt="express" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-react-native-250.png?raw=true" alt="react" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nodejs-original-wordmark.png?raw=true" alt="nodejs" width="80" height="80"/> </a> </p>
 
+<h2 align="left">Metrics:</h2>
+<div align="center">
+  <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Recent coding habits</h3>
+          <img align="center" src="metrics.plugin.habits.charts.svg" alt="Metrics" width="400">
+        </td>
+        <td width="50%">
+          <h3 align="center">Coding time tracker</h3>
+          <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics" width="400">
+        </td>
+      </tr>
+  </table>
+
+<h4 align="left">Mildly interesting facts about my coding habits</h4>
+  <img align="center" src="metrics.plugin.habits.facts.svg" alt="Metrics" width="400">
+</div>
+
 <h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/bytesbybianca" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-twitter-250.png?raw=true" alt="bytesbybianca" height="40" width="40" /></a>
