@@ -29,7 +29,7 @@
             <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"">Repo</a> | <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer">Live demo</a> </span>
             <p align="center">
-              View NASA's APOD either by selecting a date or clicking "Get random APOD"
+              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
             </p>
           </p>
         </td>
