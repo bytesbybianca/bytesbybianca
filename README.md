@@ -39,7 +39,7 @@
           <h3 align="center">MCU Carousel</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"">Repo</a></span>
+            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"">Repo</a> | <a href="https://allmcu.netlify.app/" target="_blank" rel="noreferrer">Live demo</a></span>
             <p align="center">
               View a countdown to the next MCU release, then choose an MCU movie to view more details.
             </p>
