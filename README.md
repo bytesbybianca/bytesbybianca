@@ -19,7 +19,7 @@
             <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/sentiment-analysis.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"">Repo</a> | <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer">Live demo</a> </span>
             <p align="center">
-              Generate text or input your own. Through sentiment analysis, your text will be identified as positive, negative, or neutral.
+              Generate text or input your own and your text will be identified as positive, negative, or neutral.
             </p>
           </p>
         </td>
