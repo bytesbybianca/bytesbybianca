@@ -38,7 +38,7 @@
         <td width="50%">
           <h3 align="center">MCU Carousel</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu.gif?raw=true" alt="project example"/> </a>
+            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"">Repo</a></span>
             <p align="center">
               Choose an MCU movie by its number in release date order.
