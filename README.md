@@ -17,7 +17,7 @@
           <h3 align="center">Sentiment Analysis</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/sentiment-analysis.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="20px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="20px"></a> </span>
+            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Generate text or input your own and your text will be identified as positive, negative, or neutral.
             </p>
