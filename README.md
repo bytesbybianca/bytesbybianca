@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">MCU Carousel</h3>
+          <h3 align="center">Marvel Cinematic Universe</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="25px"></a> <a href="https://allmcu.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="25px"></a></span>
