@@ -27,7 +27,7 @@
           <h3 align="center">NASA's Astronomy Picture of the Day</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="20px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="20px"></a> </span>
+            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
             </p>
@@ -39,7 +39,7 @@
           <h3 align="center">MCU Carousel</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="20px"></a> <a href="https://allmcu.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="20px"></a></span>
+            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="25px"></a> <a href="https://allmcu.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="25px"></a></span>
             <p align="center">
               View a countdown to the next MCU release, then choose an MCU movie to view more details.
             </p>
@@ -49,7 +49,7 @@
           <h3 align="center">The Good Place Quotes</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/good-place.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="20px"></a> <a href="https://thegoodplace.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="20px"></a> </span>
+            <span> <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer""><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button1.png?raw=true" alt="button to repository" height ="25px"></a> <a href="https://thegoodplace.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/button2.png?raw=true" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               View quotes from your favorite character from The Good Place (or click the random button!).
             </p>
