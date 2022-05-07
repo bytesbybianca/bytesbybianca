@@ -9,6 +9,10 @@
 
 - 📫 Email me at [biancatogodev@gmail.com](mailto:biancatogodev@gmail.com)
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytesbybianca&hide_border=true&theme=tokyonight_duo">
+</div>
+
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Projects:</h2>
 <div align="center">
   <table>
@@ -63,6 +67,7 @@
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-html-5-250.png?raw=true" alt="html5" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-css3-250.png?raw=true" alt="css3" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-javascript-250.png?raw=true" alt="javascript" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-git-250.png?raw=true" alt="git" width="80" height="80"/> </a> <br> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mongodb-original-wordmark.png?raw=true" alt="mongodb" width="80" height="80"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/express-original-wordmark.png?raw=true" alt="express" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/icons8-react-native-250.png?raw=true" alt="react" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nodejs-original-wordmark.png?raw=true" alt="nodejs" width="80" height="80"/> </a> </p>
 
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Metrics:</h2>
+
 <div align="center">
   <table>
       <tr>
