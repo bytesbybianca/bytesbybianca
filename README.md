@@ -69,21 +69,8 @@
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Metrics:</h2>
 
 <div align="center">
-  <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Recent coding habits</h3>
-          <img align="center" src="metrics.plugin.habits.charts.svg" alt="Metrics" width="400">
-        </td>
-        <td width="50%">
-          <h3 align="center">Coding time tracker</h3>
-          <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics" width="400">
-        </td>
-      </tr>
-  </table>
-
-<h4 align="left">Mildly interesting facts about my coding habits</h4>
-  <img align="center" src="metrics.plugin.habits.facts.svg" alt="Metrics" width="400">
+  <h3 align="center">Coding time tracker</h3>
+  <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics" width="400">
 </div>
 
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Connect with me:</h2>
