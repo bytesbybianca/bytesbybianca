@@ -65,31 +65,31 @@
 
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Languages and Tools:</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/bytesbybianca/readme-assets/63449989fb618ad1e422126368961e2bed3b453c/profile-images/html5.svg" alt="html5" height="80"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/css3.svg" alt="css3" height="80"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/js.svg" alt="javascript" height="80"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/git.svg" alt="git" height="80"/>
-  </a> <br> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mongodb.svg" alt="mongodb" height="80"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/express.svg" alt="express" height="80"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/react.svg" alt="react" height="80"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nodejs.svg" alt="nodejs" height="80"/> 
-  </a> 
-</p>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/html5.svg" alt="html5" height="70"/>
+    </a>&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/css3.svg" alt="css3" height="70"/>
+    </a> &nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/js.svg" alt="javascript" height="70"/> 
+    </a> &nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/git.svg" alt="git" height="70"/>
+    </a> <br> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mongodb.svg" alt="mongodb" height="70"/> 
+    </a> &nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/express.svg" alt="express" height="70"/> 
+    </a> &nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/react.svg" alt="react" height="70"/> 
+    </a> &nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nodejs.svg" alt="nodejs" height="70"/> 
+    </a> 
+  </p>
 
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Metrics:</h2>
 
@@ -100,8 +100,8 @@
 
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/bytesbybianca" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/twitter.svg" alt="bytesbybianca" height="40"/></a>
-<a href="https://linkedin.com/in/biancatogonon" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/linkedin.svg" alt="biancatogonon" height="40"/></a>
-<a href="https://github.com/bytesbybianca/"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/github.svg" alt="biancatogonon" height="40"/></a>
+<a href="https://twitter.com/bytesbybianca" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/twitter.svg" alt="bytesbybianca" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/biancatogonon" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/linkedin.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/bytesbybianca/"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/github.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:biancatogodev@gmail.com"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/gmail.svg" alt="biancatogonon" height="40"/></a>
 </p>
