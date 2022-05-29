@@ -18,22 +18,22 @@
   <table>
       <tr>
         <td width="50%">
+          <h3 align="center">Full Stack Web Development Interview Questions</h3>
+          <p align="center">
+            <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
           <h3 align="center">Sentiment Analysis</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/sentiment-analysis.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Use one of 12 APIs to generate text or input your own to be analyzed and identified as positive, negative, or neutral.
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
             </p>
           </p>
         </td>
@@ -50,12 +50,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Full Stack Web Development Interview Questions</h3>
+          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.
+              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
             </p>
           </p>
         </td>
