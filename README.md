@@ -50,12 +50,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">The Good Place Quotes</h3>
+          <h3 align="center">Full Stack Web Development Interview Questions</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/good-place.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://thegoodplace.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              View quotes from your favorite character from The Good Place (or click the random button!).
+              A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.
             </p>
           </p>
         </td>
