@@ -18,7 +18,7 @@
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Full Stack Web Development Interview Questions</h3>
+          <h3 align="center">Web Dev Interview Prep</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
