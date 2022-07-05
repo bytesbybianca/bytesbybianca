@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">A full stack software engineer from Los Angeles County.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning the **MERN** stack!
 
 - 💼 Accepting new clients. Check out my [portfolio!](https://biancatogonon.netlify.app/)
 
