@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/github-banner.png?raw=true" alt="biancatogonon"/>
+<img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/github-banner.svg?raw=true" alt="biancatogonon"/>
 
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">A full stack software engineer from Los Angeles County.</h3>
@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytesbybianca&hide_border=true&theme=tokyonight_duo">
 </div>
 
-<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Projects:</h2>
+<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.svg?raw=true" alt="arrow icon" height="20px"> Projects:</h2>
 <div align="center">
   <table>
       <tr>
@@ -63,7 +63,7 @@
   </table>
 </div>
 
-<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Languages and Tools:</h2>
+<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.svg?raw=true" alt="arrow icon" height="20px"> Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/html5.svg" alt="html5" height="70"/>
@@ -91,14 +91,14 @@
     </a> 
   </p>
 
-<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Metrics:</h2>
+<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.svg?raw=true" alt="arrow icon" height="20px"> Metrics:</h2>
 
 <div align="center">
   <h3 align="center">Coding time tracker</h3>
   <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics" width="400">
 </div>
 
-<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Connect with me:</h2>
+<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.svg?raw=true" alt="arrow icon" height="20px"> Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/bytesbybianca" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/twitter.svg" alt="bytesbybianca" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/biancatogonon" target="blank"><img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/linkedin.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
