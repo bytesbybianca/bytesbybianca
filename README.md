@@ -21,7 +21,7 @@
           <h3 align="center">Web Dev Interview Prep</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-35393F?style=flat-square&logo=github&logoColor=b693d9" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-79658c?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.
             </p>
@@ -31,7 +31,7 @@
           <h3 align="center">Coding Resources API</h3>
           <p align="center">
             <a href="https://github.com/the-api-administration/coding-resources-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/coding-resources-api.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/the-api-administration/coding-resources-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://coding-resources-api.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/the-api-administration/coding-resources-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-35393F?style=flat-square&logo=github&logoColor=b693d9" alt="button to repository" height ="25px"></a> <a href="https://coding-resources-api.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-79658c?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.
             </p>
@@ -43,7 +43,7 @@
           <h3 align="center">Marvel Cinematic Universe Database</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://mcudb.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-35393F?style=flat-square&logo=github&logoColor=b693d9" alt="button to repository" height ="25px"></a> <a href="https://mcudb.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-79658c?style=flat-square" alt="button to live site" height="25px"></a></span>
             <p align="center">
               View a countdown to the next MCU release, then choose an MCU movie or series to view more details.
             </p>
@@ -53,7 +53,7 @@
           <h3 align="center">Sentiment Analysis</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/sentiment-analysis.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-35393F?style=flat-square&logo=github&logoColor=b693d9" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-79658c?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Use one of 12 APIs to generate text or input your own to be analyzed and identified as positive, negative, or neutral.
             </p>
