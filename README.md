@@ -19,13 +19,13 @@
 <div align="center">
   <table>
       <tr>
-        <td width="50%">
-          <h3 align="center">Web Dev Interview Prep</h3>
+      <td width="50%">
+          <h3 align="center">Mood Tracker</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/bytesbybianca/mood-tracker" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/mood-tracker-v1.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/mood-tracker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> </span>
             <p align="center">
-              A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.
+              Inspired by GitHub's contribution graph, this mood tracker tracks the entered mood with different colors.
             </p>
           </p>
         </td>
@@ -52,12 +52,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Sentiment Analysis</h3>
+          <h3 align="center">Web Dev Interview Prep</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/sentiment-analysis.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/banki.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/interview-question-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Use one of 12 APIs to generate text or input your own to be analyzed and identified as positive, negative, or neutral.
+              A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.
             </p>
           </p>
         </td>
