@@ -33,7 +33,7 @@
           <h3 align="center">Coding Resources API</h3>
           <p align="center">
             <a href="https://github.com/the-api-administration/coding-resources-api" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/coding-resources-api.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/the-api-administration/coding-resources-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://coding-resources-api.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/the-api-administration/coding-resources-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://coding-resources-api.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.
             </p>
