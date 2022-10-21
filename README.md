@@ -22,6 +22,16 @@
       <td width="50%">
           <h3 align="center">Mood Tracker</h3>
           <p align="center">
+            <a href="https://github.com/bytesbybianca/timeline" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/timeline-1.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/bytesbybianca/timeline" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://timeline.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              Timeline is a full-stack web application that allows user to organize their favorite Moments in Branches.
+            </p>
+          </p>
+        </td>
+      <td width="50%">
+          <h3 align="center">Mood Tracker</h3>
+          <p align="center">
             <a href="https://github.com/bytesbybianca/mood-tracker" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/mood-tracker-v1.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/mood-tracker" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> </span>
             <p align="center">
@@ -29,6 +39,8 @@
             </p>
           </p>
         </td>
+      </tr>
+      <tr>
         <td width="50%">
           <h3 align="center">Coding Resources API</h3>
           <p align="center">
@@ -36,18 +48,6 @@
             <span> <a href="https://github.com/the-api-administration/coding-resources-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://coding-resources-api.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.
-            </p>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Marvel Cinematic Universe Database</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://mcudb.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a></span>
-            <p align="center">
-              View a countdown to the next MCU release, then choose an MCU movie or series to view more details.
             </p>
           </p>
         </td>
