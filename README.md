@@ -20,7 +20,7 @@
   <table>
       <tr>
       <td width="50%">
-          <h3 align="center">Mood Tracker</h3>
+          <h3 align="center">Timeline</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/timeline" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/project-images/timeline-1.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/timeline" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://timeline.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
