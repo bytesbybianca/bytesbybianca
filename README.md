@@ -5,8 +5,6 @@
 
 - 💡 Ask me about the **MERN** stack!
 
-- 🌱 I am currently learning **React**
-
 - 💼 Accepting new clients. Check out my [portfolio](https://biancatogonon.netlify.app/)!
 
 - 📫 Email me at [biancatogodev@gmail.com](mailto:biancatogodev@gmail.com)
