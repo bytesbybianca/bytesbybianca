@@ -1,17 +1,5 @@
-<img align="center" src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/github-banner.svg?raw=true" alt="biancatogonon"/>
-
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">A full stack software engineer from Los Angeles County.</h3>
-
-- 💡 Ask me about the **MERN** stack!
-
-- 💼 Accepting new clients. Check out my [portfolio](https://biancatogonon.netlify.app/)!
-
-- 📫 Email me at [biancatogodev@gmail.com](mailto:biancatogodev@gmail.com)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytesbybianca&hide_border=true&theme=tokyonight_duo">
-</div>
 
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.svg?raw=true" alt="arrow icon" height="20px"> Projects:</h2>
 <div align="center">
@@ -93,13 +81,6 @@
       <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mongodb.svg" alt="mongodb" height="70"/> 
     </a> &nbsp;
   </p>
-
-<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.svg?raw=true" alt="arrow icon" height="20px"> Metrics:</h2>
-
-<div align="center">
-  <h3 align="center">Coding time tracker</h3>
-  <img align="center" src="metrics.plugin.wakatime.svg" alt="Metrics" width="400">
-</div>
 
 <h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.svg?raw=true" alt="arrow icon" height="20px"> Connect with me:</h2>
 <p align="center">
